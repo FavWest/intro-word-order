@@ -1,1 +1,7 @@
-
+.result {
+  display: none;
+  text-align: center;
+}
+.words {
+  color: green;
+}
